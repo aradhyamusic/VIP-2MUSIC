@@ -51,7 +51,7 @@ SKIP_COMMAND : ["skip", "cskip"]
 SHUFFLE_COMMAND : ["shuffle", "cshuffle"]
 LOOP_COMMAND : ["loop", "cloop"]
 SEEK_COMMAND : ["seek", "cseek", "seekback", "cseekback"]
-REBOOT_COMMAND : ["reboot", "end", "stop"]
+REBOOT_COMMAND : ["reboot", "end", "stop", "radhe"]
 
 # Sudo Users Commaands
 
@@ -87,7 +87,7 @@ VARS_COMMAND : ["vars", "config"]
 
 #Basic Bot Commands
 UPDATE_COMMAND : ["update", "gitpull", "up"]
-RESTART_COMMAND : ["restart"]
+RESTART_COMMAND : ["restart", " radhe"]
 AUTOEND_COMMAND : ["autoend"]
 
 #Private Bot Mode
