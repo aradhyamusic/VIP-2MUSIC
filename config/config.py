@@ -18,9 +18,9 @@ load_dotenv()
 
 # Get it from my.telegram.org
 
-API_ID = int(getenv("API_ID", ""))
+API_ID = int(getenv("API_ID", "14050586"))
 
-API_HASH = getenv("API_HASH")
+API_HASH = getenv("API_HASH","42a60d9c657b106370c79bb0a8ac560c")
 
 
 ## Get it from @Botfather in Telegram.
@@ -70,7 +70,7 @@ SONG_DOWNLOAD_DURATION = int(
 
 
 # You'll need a Private Group ID for this.
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001992970818"))
 
 
 # Your User ID.
