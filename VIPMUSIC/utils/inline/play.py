@@ -83,19 +83,19 @@ def stream_markup_timerr(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="✚ ᴘʟᴀʏʟɪsᴛ", callback_data=f"vip_playlist {videoid}"
+                text="✚ 𝐏ʟᴀʏʟɪ𝐬ᴛ", callback_data=f"vip_playlist {videoid}"
             ),
             InlineKeyboardButton(
-                text="ᴄᴏɴᴛʀᴏʟs ♻",
+                text="𝐂ᴏɴᴛʀᴏʟ ♻",
                 callback_data=f"Pages Back|3|{videoid}|{chat_id}",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="📥 ᴠɪᴅᴇᴏ", callback_data=f"downloadvideo {videoid}"
+                text="📥 𝐕ɪᴅᴇᴏ", callback_data=f"downloadvideo {videoid}"
             ),
             InlineKeyboardButton(
-                text="📥 ᴀᴜᴅɪᴏ", callback_data=f"downloadaudio {videoid}"
+                text="📥 𝐀ᴜᴅɪᴏ", callback_data=f"downloadaudio {videoid}"
             ),
         ],
         [
@@ -162,19 +162,19 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="✚ ᴘʟᴀʏʟɪsᴛ", callback_data=f"vip_playlist {videoid}"
+                text="✚ 𝐏ʟᴀʏʟɪ𝐬ᴛ", callback_data=f"vip_playlist {videoid}"
             ),
             InlineKeyboardButton(
-                text="ᴄᴏɴᴛʀᴏʟs ♻",
+                text="𝐂ᴏɴᴛʀᴏʟ ♻",
                 callback_data=f"Pages Back|3|{videoid}|{chat_id}",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="📥 ᴠɪᴅᴇᴏ", callback_data=f"downloadvideo {videoid}"
+                text="📥 𝐕ɪᴅᴇᴏ", callback_data=f"downloadvideo {videoid}"
             ),
             InlineKeyboardButton(
-                text="📥 ᴀᴜᴅɪᴏ", callback_data=f"downloadaudio {videoid}"
+                text="📥 𝐀ᴜᴅɪᴏ", callback_data=f"downloadaudio {videoid}"
             ),
         ],
         [
@@ -434,19 +434,19 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="✚ ᴘʟᴀʏʟɪsᴛ", callback_data=f"vip_playlist {videoid}"
+                text="✚ 𝐏ʟᴀʏʟɪ𝐬ᴛ", callback_data=f"vip_playlist {videoid}"
             ),
             InlineKeyboardButton(
-                text="ᴄᴏɴᴛʀᴏʟs ♻",
+                text="𝐂ᴏɴᴛʀᴏʟ ♻",
                 callback_data=f"Pages Back|3|{videoid}|{chat_id}",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="📥 ᴠɪᴅᴇᴏ", callback_data=f"downloadvideo {videoid}"
+                text="📥 𝐕ɪᴅᴇᴏ", callback_data=f"downloadvideo {videoid}"
             ),
             InlineKeyboardButton(
-                text="📥 ᴀᴜᴅɪᴏ", callback_data=f"downloadaudio {videoid}"
+                text="📥 𝐀ᴜᴅɪᴏ", callback_data=f"downloadaudio {videoid}"
             ),
         ],
         [
@@ -656,19 +656,19 @@ def stream_markup_timer2(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="✚ ᴘʟᴀʏʟɪsᴛ", callback_data=f"vip_playlist {videoid}"
+                text="✚ 𝐏ʟᴀʏʟɪ𝐬ᴛ", callback_data=f"vip_playlist {videoid}"
             ),
             InlineKeyboardButton(
-                text="ᴄᴏɴᴛʀᴏʟs ♻",
+                text="𝐂ᴏɴᴛʀᴏʟ ♻",
                 callback_data=f"Pages Back|3|{videoid}|{chat_id}",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="📥 ᴠɪᴅᴇᴏ", callback_data=f"downloadvideo {videoid}"
+                text="📥 𝐕ɪᴅᴇᴏ", callback_data=f"downloadvideo {videoid}"
             ),
             InlineKeyboardButton(
-                text="📥 ᴀᴜᴅɪᴏ", callback_data=f"downloadaudio {videoid}"
+                text="📥 𝐀ᴜᴅɪᴏ", callback_data=f"downloadaudio {videoid}"
             ),
         ],
         [
