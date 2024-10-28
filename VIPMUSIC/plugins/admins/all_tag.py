@@ -4,8 +4,8 @@ from pyrogram import Client, filters
 from pyrogram.enums import ChatType, ChatMemberStatus
 from pyrogram.errors import UserNotParticipant
 from pyrogram.types import ChatPermissions
-from SHUKLAMUSIC import app
-from SHUKLAMUSIC.utils.shukla_ban import admin_filter
+from VIP_MUSIC import app
+from VIP_MUSIC.utils.vip_ban import admin_filter
 
 
 SPAM_CHATS = []
