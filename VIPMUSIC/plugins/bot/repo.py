@@ -9,13 +9,13 @@ start_txt = """**
  
  ❍ • ʙsᴅᴋ ʀᴇᴘᴏ ʟᴇɢᴀ ◉‿◉ •
  
- ❍ • ᴘᴇʜʟᴇ Rɪsʜᴜ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟ •
+ ❍ • ᴘᴇʜʟᴇ ʀᴀᴅʜᴇ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟ •
  
  ❍ • ᴄʜᴜᴘ ᴄʜᴜᴘ ʙᴏᴛ ʟᴇᴋᴇ ɴɪᴋᴀʟ •
  
  ❍ • ʀᴇᴘᴏs ᴛᴏ ɴᴀʜɪ ᴍɪʟᴇɢᴀ ʙᴇᴛᴀ ⊂◉‿◉ •
  
- ❍ • ᴀɢʀ ᴄʜᴀʜɪʏᴇ ᴛᴏ Rɪsʜᴜ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟɴᴀ ᴘᴀᴅᴇɢᴀ •
+ ❍ • ᴀɢʀ ᴄʜᴀʜɪʏᴇ ᴛᴏ ʀᴀᴅʜᴇ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟɴᴀ ᴘᴀᴅᴇɢᴀ •
  
  ❍ • ʀᴀᴅʜᴇ ʀᴀᴅʜᴇ •
 **"""
@@ -31,7 +31,7 @@ async def start(_, msg):
         ],
         [
           InlineKeyboardButton("𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url="https://t.me/ur_support07"),
-          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/Rishu1286"),
+          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/ll_RADHE7_ll"),
           ],
                [
                 InlineKeyboardButton("𝗨𝗣𝗗𝗔𝗧𝗘𝗦", url="https://t.me/Ur_rishu_143"),
