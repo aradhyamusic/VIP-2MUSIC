@@ -21,7 +21,7 @@ STATS_COMMAND : ["stats"]
 LANGUAGE_COMMAND : ["lang", "language", "langs"]
 
 # Play Commands
-PLAY_COMMAND : ["play", "rplay", "vplay", "cplay", "cvplay", "playforce", "vplayforce", "cplayforce", "cvplayforce", "playradhe"]
+PLAY_COMMAND : ["play", "rplay", "vplay", "cplay", "cvplay", "playforce", "vplayforce", "cplayforce", "cvplayforce"]
 PLAYMODE_COMMAND : ["playmode"]
 CHANNELPLAY_COMMAND : ["channelplay"]
 STREAM_COMMAND : ["stream", "cstream", "streamforce"]
@@ -47,7 +47,7 @@ RESUME_COMMAND : ["resume", "cresume"]
 MUTE_COMMAND : ["mute", "cmute"]
 UNMUTE_COMMAND : ["unmute", "cunmute"]
 STOP_COMMAND : ["stop", "end", "cstop", "cend", "radhe"]
-SKIP_COMMAND : ["skip", "cskip"]
+SKIP_COMMAND : ["skip", "cskip", "𝚛𝚊𝚍𝚑𝚎"]
 SHUFFLE_COMMAND : ["shuffle", "cshuffle"]
 LOOP_COMMAND : ["loop", "cloop"]
 SEEK_COMMAND : ["seek", "cseek", "seekback", "cseekback"]
@@ -87,7 +87,7 @@ VARS_COMMAND : ["vars", "config"]
 
 #Basic Bot Commands
 UPDATE_COMMAND : ["update", "gitpull", "up"]
-RESTART_COMMAND : ["restart", " radhe"]
+RESTART_COMMAND : ["restart"]
 AUTOEND_COMMAND : ["autoend"]
 
 #Private Bot Mode
