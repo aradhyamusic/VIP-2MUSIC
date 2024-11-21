@@ -82,7 +82,7 @@ OWNER_ID = list(
 # make your bots privacy from telegra.ph and put your url here
 
 PRIVACY_LINK = getenv(
-    "PRIVACY_LINK", "https://t.me/UR_RISHU_143"
+    "PRIVACY_LINK", "https://t.me/ll_BOTCHAMBER_ll"
 )
 
 
@@ -114,14 +114,14 @@ AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/ur_rishu_143"
+    "SUPPORT_CHANNEL", "https://t.me/ll_BOTCHAMBER_ll"
 )  # Example:- https://t.me/RishuTeam
 SUPPORT_GROUP = getenv(
     "SUPPORT_GROUP", "https://t.me/+ru5wxqw8u_RmMzQ1"
 )  # Example:- https://t.me/RishuNetwork 
 
 SUPPORT_CHAT = getenv(
-    "SUPPORT_GROUP", "https://t.me/Ur_support07"
+    "SUPPORT_GROUP", "https://t.me/+ru5wxqw8u_RmMzQ1"
 )  # Example:- https://t.me/ur_support07
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", False)
