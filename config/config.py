@@ -114,7 +114,7 @@ AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/ur_rishu_143"
+    "SUPPORT_CHANNEL", "https://t.me/ll_BOTCHAMBER_ll"
 )  # Example:- https://t.me/RishuTeam
 SUPPORT_GROUP = getenv(
     "SUPPORT_GROUP", "https://t.me/+ru5wxqw8u_RmMzQ1"
