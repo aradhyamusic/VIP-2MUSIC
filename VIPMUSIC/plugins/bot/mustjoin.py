@@ -27,7 +27,7 @@ MISHI = [
 
 #--------------------------
 
-MUST_JOIN = "NenoBots"
+MUST_JOIN = "DP_WORLD7"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
@@ -47,7 +47,7 @@ async def must_join_channel(app: Client, msg: Message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/NenoBots"), 
+                                InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/ll_BOTCHAMBER_ll"), 
                                 InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/DP_WORLD7"), 
                             ]
                         ]
