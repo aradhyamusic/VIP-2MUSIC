@@ -30,16 +30,16 @@ async def start(_, msg):
           InlineKeyboardButton("𝗔𝗗𝗗 𝗠𝗘", url=f"https://t.me/ZEUS_MUSIC_BOT?startgroup=true")
         ],
         [
-          InlineKeyboardButton("𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url="https://t.me/ur_support07"),
-          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/ll_RADHE7_ll"),
+          InlineKeyboardButton("𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url="https://t.me/ll_BOTCHAMBER_ll"),
+          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/UNBORNEDVILLIAN"),
           ],
                [
-                InlineKeyboardButton("𝗨𝗣𝗗𝗔𝗧𝗘𝗦", url="https://t.me/Ur_rishu_143"),
+                InlineKeyboardButton("𝗨𝗣𝗗𝗔𝗧𝗘𝗦", url="https://t.me/ll_BOTCHAMBER_ll"),
 
 ],
 [
-              InlineKeyboardButton("𝗠𝗨𝗦𝗜𝗖", url=f"https://t.me/RADHE_MUSIC_ROBOT"),
-              InlineKeyboardButton("︎𝗠𝗨𝗦𝗜𝗖", url=f"https://t.me/vip_music_vc_bot"),
+              InlineKeyboardButton("𝗠𝗨𝗦𝗜𝗖", url=f"https://t.me/ZEUS_MUSIC_ROBOT"),
+              InlineKeyboardButton("︎𝗠𝗨𝗦𝗜𝗖", url=f"https://t.me/RADHE_music_RObot"),
               ],
               [
               InlineKeyboardButton("𝗠𝗨𝗦𝗜𝗖", url=f"https://t.me/RishuXmusicXbot"),
