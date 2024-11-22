@@ -340,12 +340,12 @@ async def about_callback(client: Client, callback_query: CallbackQuery):
         [
             InlineKeyboardButton(text="ᴏᴡɴᴇʀ", user_id=config.OWNER_ID[0]),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/ur_support07"
+                text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/BOT_SUPPORTGROUP"
             ),
         ],
         [
-            InlineKeyboardButton(text="ɴᴇᴛᴡᴏʀᴋ", url=f"t.me/RishuNetwork"),
-            InlineKeyboardButton(text="ᴀʟʟ ʙᴏᴛs", url=f"https://t.me/Vip_robotz/4"),
+            InlineKeyboardButton(text="ɴᴇᴛᴡᴏʀᴋ", url=f"https://t.me/ll_BOTCHAMBER_ll"),
+            InlineKeyboardButton(text="ᴀʟʟ ʙᴏᴛs", url=f"https://t.me/ll_BOTCHAMBER_ll/80"),
         ],
         [
             InlineKeyboardButton(text="𖨠Back𖨠", callback_data="about")
