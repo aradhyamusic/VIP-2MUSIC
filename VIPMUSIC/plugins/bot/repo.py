@@ -30,11 +30,11 @@ async def start(_, msg):
           InlineKeyboardButton("𝗔𝗗𝗗 𝗠𝗘", url=f"https://t.me/VIP_MUSIC_VC_BOT?startgroup=true")
         ],
         [
-          InlineKeyboardButton("𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url="https://t.me/ur_support07"),
+          InlineKeyboardButton("𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url="https://t.me/BOT_SUPPORTGROUP"),
           InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/ll_RADHE7_ll"),
           ],
                [
-                InlineKeyboardButton("𝗨𝗣𝗗𝗔𝗧𝗘𝗦", url="https://t.me/Ur_rishu_143"),
+                InlineKeyboardButton("𝗨𝗣𝗗𝗔𝗧𝗘𝗦", url="https://t.me/ll_BOTCHAMBER_ll"),
 
 ],
 [
