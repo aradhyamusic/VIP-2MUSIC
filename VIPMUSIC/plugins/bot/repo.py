@@ -9,13 +9,13 @@ start_txt = """**
  
  ❍ • ʙsᴅᴋ ʀᴇᴘᴏ ʟᴇɢᴀ ◉‿◉ •
  
- ❍ • ᴘᴇʜʟᴇ ʀᴀᴅʜᴇ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟ •
+ ❍ • ᴘᴇʜʟᴇ ᴢᴇᴜꜱ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟ •
  
  ❍ • ᴄʜᴜᴘ ᴄʜᴜᴘ ʙᴏᴛ ʟᴇᴋᴇ ɴɪᴋᴀʟ •
  
  ❍ • ʀᴇᴘᴏs ᴛᴏ ɴᴀʜɪ ᴍɪʟᴇɢᴀ ʙᴇᴛᴀ ⊂◉‿◉ •
  
- ❍ • ᴀɢʀ ᴄʜᴀʜɪʏᴇ ᴛᴏ ʀᴀᴅʜᴇ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟɴᴀ ᴘᴀᴅᴇɢᴀ •
+ ❍ • ᴀɢʀ ᴄʜᴀʜɪʏᴇ ᴛᴏ ᴢᴇᴜꜱ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟɴᴀ ᴘᴀᴅᴇɢᴀ •
  
  ❍ • ʀᴀᴅʜᴇ ʀᴀᴅʜᴇ •
 **"""
@@ -27,7 +27,7 @@ start_txt = """**
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton("𝗔𝗗𝗗 𝗠𝗘", url=f"https://t.me/VIP_MUSIC_VC_BOT?startgroup=true")
+          InlineKeyboardButton("𝗔𝗗𝗗 𝗠𝗘", url=f"https://t.me/ZEUS_MUSIC_BOT?startgroup=true")
         ],
         [
           InlineKeyboardButton("𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url="https://t.me/ur_support07"),
