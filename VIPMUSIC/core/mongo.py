@@ -21,7 +21,7 @@ TEMP_MONGODB = "mongodb+srv://sevexedits:5JyQbk44RuB2jQj6@cluster0.lezcv.mongodb
 
 if config.MONGO_DB_URI is None:
     LOGGER(__name__).warning(
-        "𝐍o 𝐌ONGO 𝐃B 𝐔RL 𝐅ound.. 𝐘our 𝐁ot 𝐖ill 𝐖ork 𝐎n 𝐕𝐈𝐏 𝐌𝐔𝐒𝐈𝐂 𝐃atabase"
+        "𝐍𝐎 𝐌𝐎𝐍𝐆𝐎 𝐃𝐁 𝐔𝐑𝐋 𝐅𝐎𝐔𝐍𝐃.. 𝐘𝐎𝐔𝐑 𝐁𝐎𝐓 𝐖𝐈𝐋𝐋 𝐖𝐎𝐑𝐊 𝐎𝐍 𝐀𝐑𝐀𝐃𝐇𝐘𝐀 𝐌𝐔𝐒𝐈𝐂 𝐃𝐀𝐓𝐀𝐁𝐀𝐒𝐄 "
     )
     temp_client = Client(
         "VIPMUSIC",
