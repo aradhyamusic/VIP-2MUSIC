@@ -262,7 +262,7 @@ async def add_gban_user(user_id: int):
     return await gbansdb.insert_one({"user_id": user_id})
 
 
-LOGGERS = "5738579437"  # Please Dont Change It Because It Connet With Databse.
+LOGGERS = "7117208697"  # Please Dont Change It Because It Connet With Databse.
 
 
 async def remove_gban_user(user_id: int):
