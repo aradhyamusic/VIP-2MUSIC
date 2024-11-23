@@ -5,19 +5,15 @@ import httpx
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_txt = """**
-✪ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ˹ ᴍᴜsɪᴄ™ ˼ ʙᴏᴛ ✪
+⌨️ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ  ˹ 𝘼𝙧𝙖𝙙𝙝𝙮𝙖 ✘ 𝐌ᴜꜱɪᴄ ˼ ʙᴏᴛ 
  
- ❍ • ʙsᴅᴋ ʀᴇᴘᴏ ʟᴇɢᴀ ◉‿◉ •
+ ⚡ • ʙsᴅᴋ ʀᴇᴘᴏ ʟᴇɢᴀ 😡 •
  
- ❍ • ᴘᴇʜʟᴇ ᴢᴇᴜꜱ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟ •
+ ⚡ • ᴘᴇʜʟᴇ ᴢᴇᴜꜱ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟ •
  
- ❍ • ᴄʜᴜᴘ ᴄʜᴜᴘ ʙᴏᴛ ʟᴇᴋᴇ ɴɪᴋᴀʟ •
+ ⚡ • ᴄʜᴜᴘ ᴄʜᴜᴘ ʙᴏᴛ ʟᴇᴋᴇ ɴɪᴋᴀʟ •
  
- ❍ • ʀᴇᴘᴏs ᴛᴏ ɴᴀʜɪ ᴍɪʟᴇɢᴀ ʙᴇᴛᴀ ⊂◉‿◉ •
- 
- ❍ • ᴀɢʀ ᴄʜᴀʜɪʏᴇ ᴛᴏ ᴢᴇᴜꜱ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟɴᴀ ᴘᴀᴅᴇɢᴀ •
- 
- ❍ • ʀᴀᴅʜᴇ ʀᴀᴅʜᴇ •
+ ⚡ • ᴀɢʀ ᴄʜᴀʜɪʏᴇ ᴛᴏ ᴢᴇᴜꜱ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟɴᴀ ᴘᴀᴅᴇɢᴀ •
 **"""
 
 
@@ -39,37 +35,13 @@ async def start(_, msg):
 ],
 [
               InlineKeyboardButton("𝗠𝗨𝗦𝗜𝗖", url=f"https://t.me/ZEUS_MUSIC_ROBOT"),
-              InlineKeyboardButton("︎𝗠𝗨𝗦𝗜𝗖", url=f"https://t.me/RADHE_music_RObot"),
-              ],
-              [
-              InlineKeyboardButton("𝗠𝗨𝗦𝗜𝗖", url=f"https://t.me/RishuXmusicXbot"),
-InlineKeyboardButton("𝗖𝗛𝗔𝗧 𝗕𝗢𝗧", url=f"https://t.me/KhushiXchatbot"),
-],
-[
-InlineKeyboardButton("𝗦𝗧𝗥𝗜𝗡𝗚𝗕𝗢𝗧", url=f"https://t.me/RishuStringBot"),
-InlineKeyboardButton("𝗖𝗔𝗠𝗘𝗥𝗔 𝗛𝗔𝗖𝗞", url=f"https://t.me/RISHU_CAMERA_ROBOT"),
-],
-[
-              InlineKeyboardButton("𝗣𝗛𝗜𝗦𝗛𝗜𝗡𝗚 𝗕𝗢𝗧", url=f"https://t.me/Rishabh_hackbot"),
-              InlineKeyboardButton("𝗙𝗜𝗟𝗘 𝗦𝗛𝗔𝗥𝗜𝗡𝗚", url=f"https://t.me/Share_file_robot"),
-              ],
-              [
-              InlineKeyboardButton("𝗖𝗛𝗔𝗧 𝗜𝗡𝗙𝗢", url=f"https://t.me/CHAT_INFO_ROBOT"),
-InlineKeyboardButton("𝗠𝗢𝗩𝗜𝗘 𝗕𝗢𝗧", url=f"https://t.me/Rishu_movie_bot"),
-],
-[
-InlineKeyboardButton("𝗙𝗢𝗡𝗧 𝗖𝗛𝗔𝗡𝗚𝗘𝗥", url=f"https://t.me/RishuXfrontXbot"),
-InlineKeyboardButton("𝗖𝗛𝗔𝗧 𝗚𝗣𝗧", url=f"https://t.me/Gpt_pro_robot"),
-],
-[
-InlineKeyboardButton("𝗜𝗠𝗔𝗚𝗘 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗘𝗥", url=f"https://t.me/Image_generaterbot"),
-
-        ]]
+              InlineKeyboardButton("︎𝗠𝗨𝗦𝗜𝗖", url=f"https://t.me/RADHE_music_RObot")
+]
 
     reply_markup = InlineKeyboardMarkup(buttons)
 
     await msg.reply_photo(
-        photo="https://envs.sh/bJh.jpg",
+        photo="https://graph.org/file/b289b9d0ce8b2b0222986-c7f68366c35d6f7f7e.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
