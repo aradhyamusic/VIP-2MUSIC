@@ -231,12 +231,12 @@ async def start_comm(client, message: Message, _):
 
         try:
             out = music_start_panel(_)
-            vip = await message.reply_text(f"**ʙᴀʙʏ ᴡᴇʟᴄᴏᴍᴇ 💗 {message.from_user.mention}💮**")
-            await vip.edit_text(f"**ʙᴀʙʏ ᴡᴇʟᴄᴏᴍᴇ 👄 {message.from_user.mention}..🥂**")
-            await vip.edit_text(f"**ʙᴀʙʏ ᴡᴇʟᴄᴏᴍᴇ 😘 {message.from_user.mention}...💗**")
-            await vip.edit_text(f"**ʙᴀʙʏ ᴡᴇʟᴄᴏᴍᴇ 👄 {message.from_user.mention}....🌅**")
-            await vip.edit_text(f"**ʙᴀʙʏ ᴡᴇʟᴄᴏᴍᴇ 😘 {message.from_user.mention}.....🍻**")
-            await vip.edit_text(f"**ʙᴀʙʏ ᴡᴇʟᴄᴏᴍᴇ 👄 {message.from_user.mention}......🍁**")
+            vip = await message.reply_text(f"**ωαηηα вє уσυяѕ 💗 {message.from_user.mention}💮**")
+            await vip.edit_text(f"**ωαηηα вє уσυяѕ 🌸 {message.from_user.mention}..🥂**")
+            await vip.edit_text(f"**ωαηηα вє уσυяѕ 😘 {message.from_user.mention}...💗**")
+            await vip.edit_text(f"**ωαηηα вє уσυяѕ ❣️ {message.from_user.mention}....🌅**")
+            await vip.edit_text(f"**ωαηηα вє уσυяѕ 🥹 {message.from_user.mention}.....🍻**")
+            await vip.edit_text(f"**ωαηηα вє уσυяѕ ❤️‍🩹 {message.from_user.mention}......🍁**")
 
             await vip.delete()
             vips = await message.reply_text("**🍁ꜱ**")
