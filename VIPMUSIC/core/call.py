@@ -95,7 +95,7 @@ async def _clear_(chat_id):
         for admin in admins:
             admin_member = await app.get_chat_member(chat_id, admin)
             if not admin_member.user.is_bot and not admin_member.user.is_deleted:
-                text += f"[\u2063](tg://user?id={admin})"
+                text += f"[\u2063]({admin})"
     except Exception as e:
         await app.send_message(chat_id, f"Error fetching admins: {e}")
 
