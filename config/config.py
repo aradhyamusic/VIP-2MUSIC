@@ -217,12 +217,12 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://envs.sh/bJh.jpg",
+    "https://graph.org/file/d26c92f28a96d8bec37f3-9ef67d72e64c03acfc.jpg",
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/91533956c91d0fd7c9f20.jpg",
+    "https://graph.org/file/2d279709dbb75d32dd084-8c6fe54fbb23cd815d.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
@@ -318,7 +318,7 @@ if GITHUB_REPO:
 
 
 if PING_IMG_URL:
-    if PING_IMG_URL != "https://telegra.ph/file/91533956c91d0fd7c9f20.jpg":
+    if PING_IMG_URL != "https://graph.org/file/2d279709dbb75d32dd084-8c6fe54fbb23cd815d.jpg":
         if not re.match("(?:http|https)://", PING_IMG_URL):
             print(
                 "[ERROR] - Your PING_IMG_URL url is wrong. Please ensure that it starts with https://"
