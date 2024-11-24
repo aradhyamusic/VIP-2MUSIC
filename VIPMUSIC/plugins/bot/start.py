@@ -161,7 +161,7 @@ async def start_comm(client, message: Message, _):
                 sender_name = message.from_user.first_name
                 return await app.send_message(
                     config.LOG_GROUP_ID,
-                    f"{message.from_user.mention} ʜᴀs ᴊᴜsᴛ sᴛᴀʀᴛᴇᴅ ʙᴏᴛ ᴛᴏ ᴄʜᴇᴄᴋ <code>sᴜᴅᴏʟɪsᴛ </code>\n\n**ᴜsᴇʀ ɪᴅ :** {sender_id}\n**ᴜsᴇʀ ɴᴀᴍᴇ:** {sender_name}",
+                    f"{message.from_user.mention} ʏᴇ ʙᴄ ʙᴏᴛ ꜱᴛᴀʀᴛ ᴋɪʏᴀ ʜᴀɪ ᴛᴏ ᴄʜᴇᴄᴋ <code>sᴜᴅᴏʟɪsᴛ </code>\n\n**ᴜsᴇʀ ɪᴅ :** {sender_id}\n**ᴜsᴇʀ ɴᴀᴍᴇ:** {sender_name}",
                 )
             return
         if name[0:3] == "lyr":
@@ -225,18 +225,18 @@ async def start_comm(client, message: Message, _):
                 sender_name = message.from_user.first_name
                 return await app.send_message(
                     config.LOG_GROUP_ID,
-                    f"{message.from_user.mention} ʜᴀs ᴊᴜsᴛ sᴛᴀʀᴛᴇᴅ ʙᴏᴛ ᴛᴏ ᴄʜᴇᴄᴋ<code> ᴠɪᴅᴇᴏ ɪɴғᴏʀᴍᴀᴛɪᴏɴ </code>\n\n**ᴜsᴇʀ ɪᴅ:** {sender_id}\n**ᴜsᴇʀ ɴᴀᴍᴇ** {sender_name}",
+                    f"{message.from_user.mention} ʏᴇ ʙᴄ ʙᴏᴛ ꜱᴛᴀʀᴛ ᴋɪʏᴀ ʜᴀɪ ᴛᴏ ᴄʜᴇᴄᴋ<code> ᴠɪᴅᴇᴏ ɪɴғᴏʀᴍᴀᴛɪᴏɴ </code>\n\n**ᴜsᴇʀ ɪᴅ:** {sender_id}\n**ᴜsᴇʀ ɴᴀᴍᴇ** {sender_name}",
                 )
     else:
 
         try:
             out = music_start_panel(_)
-            vip = await message.reply_text(f"**𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐁𝐚𝐛𝐲 🎐 {message.from_user.mention}💮**")
-            await vip.edit_text(f"**ʙᴀʙʏ ᴡᴇʟᴄᴏᴍᴇ 🎐 {message.from_user.mention}..🥂**")
+            vip = await message.reply_text(f"**ʙᴀʙʏ ᴡᴇʟᴄᴏᴍᴇ 💗 {message.from_user.mention}💮**")
+            await vip.edit_text(f"**ʙᴀʙʏ ᴡᴇʟᴄᴏᴍᴇ 👄 {message.from_user.mention}..🥂**")
             await vip.edit_text(f"**ʙᴀʙʏ ᴡᴇʟᴄᴏᴍᴇ 😘 {message.from_user.mention}...💗**")
-            await vip.edit_text(f"**ʙᴀʙʏ ᴡᴇʟᴄᴏᴍᴇ 😘 {message.from_user.mention}....🌅**")
+            await vip.edit_text(f"**ʙᴀʙʏ ᴡᴇʟᴄᴏᴍᴇ 👄 {message.from_user.mention}....🌅**")
             await vip.edit_text(f"**ʙᴀʙʏ ᴡᴇʟᴄᴏᴍᴇ 😘 {message.from_user.mention}.....🍻**")
-            await vip.edit_text(f"**ʙᴀʙʏ ᴡᴇʟᴄᴏᴍᴇ 😘 {message.from_user.mention}......🍁**")
+            await vip.edit_text(f"**ʙᴀʙʏ ᴡᴇʟᴄᴏᴍᴇ 👄 {message.from_user.mention}......🍁**")
 
             await vip.delete()
             vips = await message.reply_text("**🍁ꜱ**")
