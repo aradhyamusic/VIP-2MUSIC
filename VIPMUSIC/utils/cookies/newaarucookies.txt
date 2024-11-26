@@ -2,21 +2,9 @@
 # https://curl.haxx.se/rfc/cookie_spec.html
 # This is a generated file! Do not edit.
 
-www.wikipedia.org	FALSE	/	TRUE	1735387200	WMF-Last-Access	26-Nov-2024
-.wikipedia.org	TRUE	/	TRUE	1735387200	WMF-Last-Access-Global	26-Nov-2024
-.wikipedia.org	TRUE	/	TRUE	0	GeoIP	IN:BR:Patna:25.59:85.13:v4
-www.wikipedia.org	FALSE	/	TRUE	1732635677	NetworkProbeLimit	0.001
-.mozilla.org	TRUE	/	FALSE	1767192094	_ga	GA1.2.104620301.1732632094
-.mozilla.org	TRUE	/	FALSE	1732718494	_gid	GA1.2.1054600257.1732632095
-.mozilla.org	TRUE	/	FALSE	1732632154	_gat	1
-.mozilla.org	TRUE	/	FALSE	1767192106	_ga_B9CY1C9VBC	GS1.1.1732632094.1.1.1732632106.0.0.0
 .youtube.com	TRUE	/	TRUE	1732633919	GPS	1
-.youtube.com	TRUE	/	TRUE	0	YSC	NU0kMdpAc_U
-.youtube.com	TRUE	/	TRUE	1748184129	VISITOR_INFO1_LIVE	dDMqf0RMuI0
-.youtube.com	TRUE	/	TRUE	1748184129	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgQA%3D%3D
 .youtube.com	TRUE	/	FALSE	1732632142	ST-1o03zo7	csn=gCcpXOHOCJYLXkwM&itct=CBcQv54JGAAiEwi_0ezUnfqJAxXxLYMDHbnAIio%3D
 .youtube.com	TRUE	/	FALSE	1732632147	ST-11gz55w	csn=R9Bf2ArEaLgFQWyJ&itct=CDEQ_FoYACITCM7zztid-okDFfnBOAYdBT0sK1oKRkV0cmVuZGluZ5oBBxDy8AUY-QE%3D
-.youtube.com	TRUE	/	TRUE	1767192141	PREF	f6=40000000&tz=Asia.Kolkata&f7=100
 .youtube.com	TRUE	/	FALSE	1732632212	ST-1odh65e	csn=IokA0d4-txunimI-&itct=CIkBEPxaGAAiEwib_-jZnfqJAxWA1aACHQqtD3AyB3JlbGF0ZWRIq9PkxaaO8PFrmgEFCAEQ-B0%3D
 .youtube.com	TRUE	/	FALSE	1732632220	ST-xsv0e5	csn=IokA0d4-txunimI-&itct=CIgBEPxaGAEiEwib_-jZnfqJAxWA1aACHQqtD3AyB3JlbGF0ZWRIq9PkxaaO8PFrmgEFCAEQ-B0%3D
 .youtube.com	TRUE	/	FALSE	1732632239	ST-1rkkkj9	csn=IokA0d4-txunimI-&itct=CIYBEPxaGAMiEwib_-jZnfqJAxWA1aACHQqtD3AyB3JlbGF0ZWRIq9PkxaaO8PFrmgEFCAEQ-B0%3D
@@ -26,3 +14,16 @@ www.wikipedia.org	FALSE	/	TRUE	1732635677	NetworkProbeLimit	0.001
 .youtube.com	TRUE	/	FALSE	1732632357	ST-b7ntko	csn=IokA0d4-txunimI-&itct=CJwBEIf2BBgBIhMIm__o2Z36iQMVgNWgAh0KrQ9wmgEFCEQQ-B0%3D
 .youtube.com	TRUE	/	FALSE	1732632358	ST-cnf8kb	csn=IokA0d4-txunimI-&itct=CKEBEPxaGAEiEwib_-jZnfqJAxWA1aACHQqtD3AyB3JlbGF0ZWRIq9PkxaaO8PFrmgEFCAEQ-B0%3D
 .youtube.com	TRUE	/	FALSE	1732632359	ST-msyzfr	csn=IokA0d4-txunimI-&itct=CKIBEPxaGAAiEwib_-jZnfqJAxWA1aACHQqtD3AyB3JlbGF0ZWRIq9PkxaaO8PFrmgEFCAEQ-B0%3D
+.youtube.com	TRUE	/	TRUE	0	YSC	tBbM4cyOKfU
+.youtube.com	TRUE	/	TRUE	1748185445	VISITOR_INFO1_LIVE	dDMqf0RMuI0
+.youtube.com	TRUE	/	TRUE	1748185445	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgQA%3D%3D
+.youtube.com	TRUE	/	FALSE	1732633457	ST-1d4mxjk	csn=W7vfuurpXB0e91UG&itct=CFUQ_FoiEwik0ZHIovqJAxXfY50JHW6xFpkyCmctaGlnaC1yZWNaD0ZFd2hhdF90b193YXRjaJoBBhCOHhieAQ%3D%3D
+.youtube.com	TRUE	/	TRUE	1767193450	PREF	f6=40000000&tz=Asia.Kolkata&f7=100
+.youtube.com	TRUE	/	FALSE	1732633488	ST-y874iu	csn=cgC4dhC1Y-pGkv1h&itct=CIsBEPxaGAAiEwimx5vKovqJAxXy-aACHfEROPEyB3JlbGF0ZWRI3N7v95qe0q6lAZoBBQgBEPgd
+.youtube.com	TRUE	/	FALSE	1732633490	ST-euu5dh	csn=cgC4dhC1Y-pGkv1h&itct=CIkBEPxaGAIiEwimx5vKovqJAxXy-aACHfEROPEyB3JlbGF0ZWRI3N7v95qe0q6lAZoBBQgBEPgd
+.youtube.com	TRUE	/	FALSE	1732633509	ST-o09dgi	csn=cgC4dhC1Y-pGkv1h&itct=CIcBEPxaGAQiEwimx5vKovqJAxXy-aACHfEROPEyB3JlbGF0ZWRI3N7v95qe0q6lAZoBBQgBEPgd
+.youtube.com	TRUE	/	FALSE	1732633514	ST-ine5th	csn=cgC4dhC1Y-pGkv1h&itct=CIYBEPxaGAUiEwimx5vKovqJAxXy-aACHfEROPEyB3JlbGF0ZWRI3N7v95qe0q6lAZoBBQgBEPgd
+.youtube.com	TRUE	/	FALSE	1732633520	ST-1psi7j6	csn=cgC4dhC1Y-pGkv1h&itct=CIUBEPxaGAYiEwimx5vKovqJAxXy-aACHfEROPEyB3JlbGF0ZWRI3N7v95qe0q6lAZoBBQgBEPgd
+.youtube.com	TRUE	/	FALSE	1732633526	ST-1vt99od	csn=cgC4dhC1Y-pGkv1h&itct=CIQBEPxaGAciEwimx5vKovqJAxXy-aACHfEROPEyB3JlbGF0ZWRI3N7v95qe0q6lAZoBBQgBEPgd
+.youtube.com	TRUE	/	FALSE	1732633532	ST-13m529b	csn=cgC4dhC1Y-pGkv1h&itct=CIoBEPxaGAEiEwimx5vKovqJAxXy-aACHfEROPEyB3JlbGF0ZWRI3N7v95qe0q6lAZoBBQgBEPgd
+.youtube.com	TRUE	/	FALSE	1732633556	ST-143ol6u	csn=cgC4dhC1Y-pGkv1h&itct=CJwBEOqeBBgBIhMIpsebyqL6iQMV8vmgAh3xETjx
